@@ -1,0 +1,13 @@
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.exe
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.deps.json
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.runtimeconfig.json
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.runtimeconfig.dev.json
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.dll
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\bin\Debug\netcoreapp3.1\GoodMatch.pdb
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.AssemblyInfoInputs.cache
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.AssemblyInfo.cs
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.csproj.CoreCompileInputs.cache
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.dll
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.pdb
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.genruntimeconfig.cache
+C:\Users\sipho\source\repos\GoodMatch\GoodMatch\obj\Debug\netcoreapp3.1\GoodMatch.csprojAssemblyReference.cache
